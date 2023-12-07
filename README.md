@@ -1,6 +1,6 @@
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-![Dart Version](https://img.shields.io/static/v1?label=dart&message=3.0.7&color=00579d)
-![Flutter Version](https://img.shields.io/static/v1?label=flutter&message=3.13.16&color=42a5f5)
+![Dart Version](https://img.shields.io/static/v1?label=dart&message=3.2.0&color=00579d)
+![Flutter Version](https://img.shields.io/static/v1?label=flutter&message=3.16.0&color=42a5f5)
 ![Null Safety](https://img.shields.io/static/v1?label=null-safety&message=done&color=success)
 
 # **🪗 Flutter Expanded Container**

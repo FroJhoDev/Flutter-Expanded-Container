@@ -13,7 +13,7 @@ Projeto criado para praticar animações com Flutter, utilizando os widgtes Anim
 
 <p align="middle">
     <div width="25%"></div>
-    <img src="https://github.com/FroJhoDev/weather_meteo_flutter/blob/main/weather_forecast_app_example.gif?raw=true" width="50%">
+    <img src="https://github.com/FroJhoDev/Flutter-Expanded-Container/blob/main/assets/frojho_dev_flutter_expanded_container_example.gif" width="50%">
     <div width="25%"></div>
 </p>
 
